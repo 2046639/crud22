@@ -28,7 +28,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <mysql.mysql-connector-java.version>5.1.35</mysql.mysql-connector-java.version>
-        <org.hibernate.hibernate-core.version>4.3.10.Final</org.hibernate.hibernate-core.version>
+        <org.hibernate.hibernate-core.version>5.4.24.Final</org.hibernate.hibernate-core.version>
     </properties>
 
     <dependencies>
